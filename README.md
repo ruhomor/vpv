@@ -1,0 +1,2 @@
+# vpv
+dependecies: gphoto2
