@@ -1,2 +1,4 @@
 gphoto2==2.3.0
+pkg-resources==0.0.0
+pyserial==3.5
 sh==1.14.2
